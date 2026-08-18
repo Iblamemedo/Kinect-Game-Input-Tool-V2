@@ -1,0 +1,15 @@
+{
+  "globalInputEnabled": true,
+  "auto": {
+    "joints": [],
+    "mappings": [{"joint": "HandLeft", "key": 87, "dir": 4, "thresh": 0.150000, "behavior": 0}, {"joint": "HandLeft", "key": 83, "dir": 5, "thresh": 0.150000, "behavior": 0}, {"joint": "ShoulderRight", "key": 0, "dir": 0, "thresh": 0.150000, "behavior": 0}, {"joint": "FootLeft", "key": 87, "dir": 0, "thresh": 0.300000, "behavior": 0}, {"joint": "KneeRight", "key": 87, "dir": 0, "thresh": 0.150000, "behavior": 0}]
+  },
+  "persons": [
+    {"enabled": false, "joints": [], "mappings": [{"joint": "FootRight", "key": 68, "dir": 0, "thresh": 0.150000, "behavior": 0}]},
+    {"enabled": false, "joints": [], "mappings": []},
+    {"enabled": false, "joints": [], "mappings": []},
+    {"enabled": false, "joints": [], "mappings": []},
+    {"enabled": false, "joints": [], "mappings": []},
+    {"enabled": false, "joints": [], "mappings": []}
+  ]
+}

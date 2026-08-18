@@ -1,0 +1,15 @@
+{
+  "globalInputEnabled": true,
+  "auto": {
+    "joints": [],
+    "mappings": []
+  },
+  "persons": [
+    {"enabled": true, "joints": [], "mappings": []},
+    {"enabled": true, "joints": [], "mappings": []},
+    {"enabled": true, "joints": [], "mappings": []},
+    {"enabled": true, "joints": [], "mappings": []},
+    {"enabled": true, "joints": [], "mappings": []},
+    {"enabled": true, "joints": [], "mappings": []}
+  ]
+}
